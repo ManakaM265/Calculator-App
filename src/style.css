@@ -20,6 +20,7 @@ table {
   color: white;
   text-align: center;
   font-size: 32px;
+  border-spacing: 20px;
 }
 .calculator {
   background-color: #302e2e;
