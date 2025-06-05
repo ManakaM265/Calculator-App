@@ -28,3 +28,7 @@ table {
 tr {
   background-color: #4e494d;
 }
+td {
+  border: 1px solid #4e494d;
+  border-radius: 60px;
+}
