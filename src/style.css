@@ -49,3 +49,10 @@ td {
 .acButton {
   background-color: #656165;
 }
+footer {
+  text-align: center;
+  color: #656165;
+}
+a {
+  color: #ff9e06;
+}
