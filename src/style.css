@@ -19,6 +19,7 @@ table {
   margin: 0 auto;
   color: white;
   text-align: center;
+  font-size: 32px;
 }
 .calculator {
   background-color: #302e2e;
