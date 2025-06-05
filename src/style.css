@@ -32,3 +32,9 @@ td {
   border: 1px solid #4e494d;
   border-radius: 60px;
 }
+#inputBox {
+  text-align: right;
+  width: 100%;
+  font-size: 32px;
+  border: 0px;
+}
